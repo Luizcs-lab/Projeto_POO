@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "br.com.Padaria.view.Menu",
+            "projectName": "Projeto_POO_720fe816"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "br.com.Padaria.Main",
+            "projectName": "Projeto_POO_73810214"
+        },
+        {
+            "type": "java",
+            "name": "ConexaoMySQL",
+            "request": "launch",
+            "mainClass": "br.com.Padaria.connection.ConexaoMySQL",
+            "projectName": "Projeto_POO_73810214"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "br.com.Padaria.view.Menu",
+            "projectName": "Projeto_POO_73810214"
+        }
+    ]
+}
