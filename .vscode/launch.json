@@ -6,13 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Menu",
-            "request": "launch",
-            "mainClass": "br.com.Padaria.view.Menu",
-            "projectName": "Projeto_POO_720fe816"
-        },
-        {
-            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
